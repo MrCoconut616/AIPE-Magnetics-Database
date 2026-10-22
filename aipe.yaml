@@ -154,6 +154,11 @@ documentation:
   - docs/demo-dab-10kw.md
   - docs/waveform-informed-design.md
   - LICENSING.md
+  - docs/demo-dab-10kw-report.md
+  - docs/limitations.md
+  - docs/release-verification-v0.2.0.md
+  - docs/sources-adapters.md
+  - docs/verification-report-v0.2.0.md
 extensions:
   aipe.magnetics:
     package: aipe-magnetics 0.2.0
